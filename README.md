@@ -17,3 +17,7 @@ ER図https://github.com/mikage123/test-form/issues/1#issue-2104115602
 
 使用技術
 Laravel 8.83.8
+
+開発環境：http://localhost/
+
+phpmyadmin:
