@@ -20,4 +20,4 @@ Laravel 8.83.8
 
 開発環境：http://localhost/
 
-phpmyadmin:
+phpmyadmin:http://localhost:8080/
